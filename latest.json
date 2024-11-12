@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "notes": "- Download files for a Quickbyte shared link without requiring an account\r\n- Support for password-protected shared links\r\n- Login to your Quickbyte account and browse your projects\r\n- Upload files to your Quickbyte projects\r\n- Keep track of the progress of upload and download jobs\r\n- Automatically resume incomplete upload or download jobs when you restart the app",
+  "pub_date": "2024-11-12T03:29:23.573Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSalAvSDczNDg4aTkwbGN1bE9rMzFLR3dLZ250MExUY01vRU9heVA2VFRYQnd6YTMxK1VsRm5SOXV6b3lhb1pneXJMZzJBODgyN05IMGZpcm9GWWkvZ0hjUGFhcndxeEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMzgxNjIyCWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIFByZXZpZXcuYXBwLnRhci5negpqamJFdjR6OTJqYjZZMVNlZ2xyUGhxcGdmSmNOT1dFMVkyWkNBRDJmSXlrRkI4ZjcwUUxBV09odTBqYnliMi9XeURZSGpnSkpnNjBoUytNQlVXWmZDUT09Cg==",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-staging-releases/releases/download/v1.0.0/Quickbyte.Transfer.Preview_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSalAvSDczNDg4aStWWk9qVjA2QmhJR2FzSjFVZGJCRjdNNzJFd1VXdkFEZnFnVGxwcGZzYXczcis5Z29hUnM0NHNCSWtGbEF0ei9uV28wQldpL0ljNmxMczkrTVJ3cWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMzgxNjI3CWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIFByZXZpZXcuYXBwLnRhci5negphaDRNeHlJejUySGl1V3hqQUFrZVVPdDBiNzVEVFQ4YkVBKzRqYjV3SlN5WHRmUFQzNmpVaUZoeXdZc2NZTkt0WG9zdXZocFZoNnI1TGJ1aW1iSm1BQT09Cg==",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-staging-releases/releases/download/v1.0.0/Quickbyte.Transfer.Preview_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSalAvSDczNDg4aTBqZGpEUnJBaXZaWjZzekJ4ZWdJWEFGeThGc3F2WWJhQisyRUdmeW1pSzFiQWxJTURJTktiRkpEaWRnZXczTUVubDR3cXdZdVNrMmhRclBuU2lFZWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMzgyMTU5CWZpbGU6UXVpY2tieXRlIFRyYW5zZmVyIFByZXZpZXdfMS4wLjBfeDY0X2VuLVVTLm1zaS56aXAKS0VRU3M3MXdNc0xSSUExUVRFeE5wRUZocGlHTWtxckp5dWdHQklsUTFtWXd3UE1tZm5WR3ZUUFAramZoV3JRTTJxN3hkeW1ad0t3NldWNkYrQ3VFQXc9PQo=",
+      "url": "https://github.com/QuickbyteHQ/desktop-transfer-staging-releases/releases/download/v1.0.0/Quickbyte.Transfer.Preview_1.0.0_x64_en-US.msi.zip"
+    }
+  }
+}
